@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530935180775.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AC454A3A",
+    "lastKnownWriteTime" : 1530957847,
+    "last_content_update" : 1531532379259,
+    "path" : "C:/R/project180707/calc.R",
+    "project_path" : "calc.R",
+    "properties" : {
+        "cursorPosition" : "135,0",
+        "scrollLine" : "127",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
